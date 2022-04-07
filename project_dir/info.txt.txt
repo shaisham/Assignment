@@ -1,1 +1,0 @@
-"Im gonna use gitignore to use this file and ignore my text file.
