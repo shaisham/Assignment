@@ -74,7 +74,7 @@ namespace Assignment_2_OOPS
 
             static void Main(string[] args)
             {
-                Employee Emp1 = new Employee(1, "Shameer", 15000);
+                Employee Emp1 = new Employee(1, " Shameer ", 15000);
                 Emp1.CalculateSalary();
                 Console.WriteLine(Emp1.GrossSalary);
                 Console.WriteLine(Emp1.NetSalary);
