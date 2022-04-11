@@ -31,7 +31,7 @@ namespace Assignment_1
             {
                 book b = new book();
                 Console.Write("\n\nEnter the information of books  :\n");
-                Console.Write("--------------------------------------\n");
+                Console.Write("-----------------------------------\n");
                 Console.Write("Enter  BookId  :");
                 b.bookId = Int32.Parse(Console.ReadLine());
                 Console.Write("Enter  Title :");
