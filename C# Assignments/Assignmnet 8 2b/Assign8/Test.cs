@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Reflection;
 
-namespace Assignment_8
+namespace Assign8
 {
     class SoftwareAtttribute : Attribute
     {

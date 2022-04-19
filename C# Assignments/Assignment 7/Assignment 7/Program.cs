@@ -1,66 +1,73 @@
 ﻿using System;
 using System.IO;
 
-//1st one 
+
 namespace Assignment_7
 {
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            //creating dir
-            string dir = @"C:\Users\shame";
-
-            if (!Directory.Exists(dir))
+    internal class program
+    { 
+            static void Main(string[] args)
             {
-                Directory.CreateDirectory(dir);
-            }
+                //creating dir
+                string dir = @"C:/DirSample";
 
-            //creating file in a dir
-            string filepath = @"C:/Users/shame/File3.txt";
-
-            //creates file if not exists
-            if (!File.Exists(filepath))
-            {
-                // write into  file
-                using (StreamWriter sw = File.CreateText(filepath))
+                if (!Directory.Exists(dir))
                 {
-                    sw.WriteLine("welcome");
-                    sw.WriteLine("This is sample");
-                    sw.WriteLine("FileIo");
+                    Directory.CreateDirectory(dir);
                 }
-            }
 
-            // read from file
-            using (StreamReader sr = File.OpenText(filepath))
-            {
-                string s;
-                while ((s = sr.ReadLine()) != null)
+                //creating file in a dir
+                string filepath = @"C:/DirSample/File3.txt";
+
+                //creates file if not exists
+                if (!File.Exists(filepath))
                 {
-                    Console.WriteLine(s);
+                    // write into  file
+                    using (StreamWriter sw = File.CreateText(filepath))
+                    {
+                        sw.WriteLine("welcome");
+                        sw.WriteLine("This is sample");
+                        sw.WriteLine("FileIo");
+                    }
                 }
+
+                // read from file
+                using (StreamReader sr = File.OpenText(filepath))
+                {
+                    string s;
+                    while ((s = sr.ReadLine()) != null)
+                    {
+                        Console.WriteLine(s);
+                    }
+                }
+                //creating sub dir
+                string address = Directory.CreateDirectory(dir).CreateSubdirectory("SubDir").FullName;
+
+
+                //to fetch sub directories
+                string rootPath = @"C:/DirectorySample";
+                string[] dirs = Directory.GetDirectories(dir, "*", SearchOption.AllDirectories);
+
+                foreach (string i in dirs)
+                {
+                    Console.WriteLine(i);
+                }
+
+                //delete file
+                File.Delete(@"C:/Sample.txt");
+
+                //delete dir
+                //string path = @"C:/DirectorySample";
+                //Directory.Delete(path, true);
+
+
+                //fetchig files from dir
+                // string[] filePaths = Directory.GetFiles(@"E:/DirectorySample");
+
+
+                Console.ReadKey();
+
             }
-            //creating sub dir
-            string address = Directory.CreateDirectory(dir).CreateSubdirectory("SubDir").FullName;
-
-
-            //to fetch sub directories
-            //string rootPath = @"C:\Users\shame\SubDir";
-            string[] dirs = Directory.GetDirectories(dir, "*", SearchOption.AllDirectories);
-
-            foreach (string i in dirs)
-            {
-                Console.WriteLine(i);
-            }
-
-            
-
-            //fetchig files from dir
-          
-
-
-            Console.ReadKey();
-
         }
     }
-}
+
