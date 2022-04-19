@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CD3E5951-4E82-4DC1-8DAE-4D820B889464}</ProjectGuid>
+    <ProjectGuid>{9C394B21-7CE5-4346-A61D-50C845A8E47F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Assignment_6</RootNamespace>
-    <AssemblyName>Assignment 6</AssemblyName>
+    <RootNamespace>Assignment_7</RootNamespace>
+    <AssemblyName>Assignment 7</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Assignment_6.Employee</StartupObject>
+    <StartupObject>Assignment_7.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,10 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Account.cs" />
-    <Compile Include="Delegates.cs" />
-    <Compile Include="Event.cs" />
+    <Compile Include="Employee1.cs" />
+    <Compile Include="Manager.cs" />
+    <Compile Include="Demo.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StreamReadWrite.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

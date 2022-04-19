@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Assignment_6
 {
@@ -138,7 +134,9 @@ namespace Assignment_6
                 Console.WriteLine(GrossSalary);
 
             }
-
+/// <summary>
+/// this method is to calculate salary!.
+/// </summary>
             public override void CalculateSalary()
             {
                 Console.WriteLine("MaarketingExecutive NetSalary");
@@ -164,12 +162,12 @@ namespace Assignment_6
              MED(); */
 
 
-            Manager M1 = new Manager(1, "nick", 10000);
+            Manager M1 = new Manager(1, "harry", 10000);
             Delagate MD = new Delagate(M1.Grosssal);
             MD += new Delagate(M1.CalculateSalary);
             MD();
 
-            MarketingExecutive M2 = new MarketingExecutive(1, "nick", 10000);
+            MarketingExecutive M2 = new MarketingExecutive(1, "nory", 10000);
             Delagate MED = new Delagate(M2.Grosssal);
             MED += new Delagate(M2.CalculateSalary);
             MED();

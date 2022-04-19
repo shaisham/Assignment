@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CD3E5951-4E82-4DC1-8DAE-4D820B889464}</ProjectGuid>
+    <ProjectGuid>{B6841DBA-4990-4D71-878F-1A9F78EF4D2B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Assignment_6</RootNamespace>
-    <AssemblyName>Assignment 6</AssemblyName>
+    <RootNamespace>Assignment_8</RootNamespace>
+    <AssemblyName>Assignment 8</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Assignment_6.Employee</StartupObject>
+    <StartupObject>Assignment_8.SoftwareAtttribute.Properties</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,9 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Account.cs" />
-    <Compile Include="Delegates.cs" />
-    <Compile Include="Event.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
