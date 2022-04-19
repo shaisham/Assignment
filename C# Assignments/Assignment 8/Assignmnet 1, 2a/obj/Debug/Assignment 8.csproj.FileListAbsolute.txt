@@ -1,8 +1,0 @@
-C:\Users\shame\OneDrive\Documents\GitHub\freshersbatch-Mar17\C# Assignments\Assignment 8\Assignment 8\bin\Debug\Assignment 8.exe.config
-C:\Users\shame\OneDrive\Documents\GitHub\freshersbatch-Mar17\C# Assignments\Assignment 8\Assignment 8\bin\Debug\Assignment 8.exe
-C:\Users\shame\OneDrive\Documents\GitHub\freshersbatch-Mar17\C# Assignments\Assignment 8\Assignment 8\bin\Debug\Assignment 8.pdb
-C:\Users\shame\OneDrive\Documents\GitHub\freshersbatch-Mar17\C# Assignments\Assignment 8\Assignment 8\obj\Debug\Assignment 8.csproj.AssemblyReference.cache
-C:\Users\shame\OneDrive\Documents\GitHub\freshersbatch-Mar17\C# Assignments\Assignment 8\Assignment 8\obj\Debug\Assignment 8.csproj.SuggestedBindingRedirects.cache
-C:\Users\shame\OneDrive\Documents\GitHub\freshersbatch-Mar17\C# Assignments\Assignment 8\Assignment 8\obj\Debug\Assignment 8.csproj.CoreCompileInputs.cache
-C:\Users\shame\OneDrive\Documents\GitHub\freshersbatch-Mar17\C# Assignments\Assignment 8\Assignment 8\obj\Debug\Assignment 8.exe
-C:\Users\shame\OneDrive\Documents\GitHub\freshersbatch-Mar17\C# Assignments\Assignment 8\Assignment 8\obj\Debug\Assignment 8.pdb
