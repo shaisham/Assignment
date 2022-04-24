@@ -1,8 +1,0 @@
-C:\Users\shame\OneDrive\Documents\GitHub\freshersbatch-Mar17\C# Assignments\CollectionFramework-Assignment-5\CollectionFramework-Assignment-5\bin\Debug\CollectionFramework-Assignment-5.exe.config
-C:\Users\shame\OneDrive\Documents\GitHub\freshersbatch-Mar17\C# Assignments\CollectionFramework-Assignment-5\CollectionFramework-Assignment-5\bin\Debug\CollectionFramework-Assignment-5.exe
-C:\Users\shame\OneDrive\Documents\GitHub\freshersbatch-Mar17\C# Assignments\CollectionFramework-Assignment-5\CollectionFramework-Assignment-5\bin\Debug\CollectionFramework-Assignment-5.pdb
-C:\Users\shame\OneDrive\Documents\GitHub\freshersbatch-Mar17\C# Assignments\CollectionFramework-Assignment-5\CollectionFramework-Assignment-5\obj\Debug\CollectionFramework-Assignment-5.csproj.AssemblyReference.cache
-C:\Users\shame\OneDrive\Documents\GitHub\freshersbatch-Mar17\C# Assignments\CollectionFramework-Assignment-5\CollectionFramework-Assignment-5\obj\Debug\CollectionFramework-Assignment-5.csproj.SuggestedBindingRedirects.cache
-C:\Users\shame\OneDrive\Documents\GitHub\freshersbatch-Mar17\C# Assignments\CollectionFramework-Assignment-5\CollectionFramework-Assignment-5\obj\Debug\CollectionFramework-Assignment-5.csproj.CoreCompileInputs.cache
-C:\Users\shame\OneDrive\Documents\GitHub\freshersbatch-Mar17\C# Assignments\CollectionFramework-Assignment-5\CollectionFramework-Assignment-5\obj\Debug\CollectionFramework-Assignment-5.exe
-C:\Users\shame\OneDrive\Documents\GitHub\freshersbatch-Mar17\C# Assignments\CollectionFramework-Assignment-5\CollectionFramework-Assignment-5\obj\Debug\CollectionFramework-Assignment-5.pdb
