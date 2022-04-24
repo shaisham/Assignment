@@ -1,0 +1,8 @@
+C:\Users\shame\source\repos\Assignment 3 OOPS\Assignment 3 OOPS\bin\Debug\Assignment 3 OOPS.exe.config
+C:\Users\shame\source\repos\Assignment 3 OOPS\Assignment 3 OOPS\bin\Debug\Assignment 3 OOPS.exe
+C:\Users\shame\source\repos\Assignment 3 OOPS\Assignment 3 OOPS\bin\Debug\Assignment 3 OOPS.pdb
+C:\Users\shame\source\repos\Assignment 3 OOPS\Assignment 3 OOPS\obj\Debug\Assignment 3 OOPS.csproj.AssemblyReference.cache
+C:\Users\shame\source\repos\Assignment 3 OOPS\Assignment 3 OOPS\obj\Debug\Assignment 3 OOPS.csproj.SuggestedBindingRedirects.cache
+C:\Users\shame\source\repos\Assignment 3 OOPS\Assignment 3 OOPS\obj\Debug\Assignment 3 OOPS.csproj.CoreCompileInputs.cache
+C:\Users\shame\source\repos\Assignment 3 OOPS\Assignment 3 OOPS\obj\Debug\Assignment 3 OOPS.exe
+C:\Users\shame\source\repos\Assignment 3 OOPS\Assignment 3 OOPS\obj\Debug\Assignment 3 OOPS.pdb
