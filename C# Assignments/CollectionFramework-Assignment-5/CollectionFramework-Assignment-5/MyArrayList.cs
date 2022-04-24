@@ -39,6 +39,7 @@ new Employee{EmpId=3,EmpName="fasil",EmpSal=30000,EmpLoc="Hyd"},
             {
                 Console.WriteLine(i.EmpId + " " + i.EmpName + " " + i.EmpSal + " " + i.EmpLoc);
             }
+          
             Console.ReadKey();
         }
     }

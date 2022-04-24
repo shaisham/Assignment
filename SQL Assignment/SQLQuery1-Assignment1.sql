@@ -103,3 +103,6 @@ WHERE OrderDate BETWEEN 1996 AND 2022-04-04;
 --AVG Quantity 
 SELECT AVG (UnitPrice) AS UnitPriceAvg FROM Product;
 
+select * from customer;
+
+

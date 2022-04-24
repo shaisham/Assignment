@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{843D53B8-643D-4DF0-A71D-EA33E126E967}</ProjectGuid>
+    <ProjectGuid>{6AA197C3-FCEE-4FF4-B054-AF95D778B941}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CollectionFramework_Assignment_5</RootNamespace>
-    <AssemblyName>CollectionFramework-Assignment-5</AssemblyName>
+    <RootNamespace>LinqAssignment</RootNamespace>
+    <AssemblyName>LinqAssignment</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -32,9 +32,6 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
-  <PropertyGroup>
-    <StartupObject>CollectionFramework_Assignment_5.MyArrayList</StartupObject>
-  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -46,10 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="StackGeneric.cs" />
-    <Compile Include="ListSample.cs" />
-    <Compile Include="MyArray.cs" />
-    <Compile Include="MyArrayList.cs" />
+    <Compile Include="Employee.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
