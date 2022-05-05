@@ -1,8 +1,0 @@
-D:\ado.net\Ado.net Crud Operation using Switch Case\EntityFrameWork\bin\Debug\EntityFrameWork.exe.config
-D:\ado.net\Ado.net Crud Operation using Switch Case\EntityFrameWork\bin\Debug\EntityFrameWork.exe
-D:\ado.net\Ado.net Crud Operation using Switch Case\EntityFrameWork\bin\Debug\EntityFrameWork.pdb
-D:\ado.net\Ado.net Crud Operation using Switch Case\EntityFrameWork\obj\Debug\AdoNetCrudOperation.csproj.AssemblyReference.cache
-D:\ado.net\Ado.net Crud Operation using Switch Case\EntityFrameWork\obj\Debug\AdoNetCrudOperation.csproj.SuggestedBindingRedirects.cache
-D:\ado.net\Ado.net Crud Operation using Switch Case\EntityFrameWork\obj\Debug\AdoNetCrudOperation.csproj.CoreCompileInputs.cache
-D:\ado.net\Ado.net Crud Operation using Switch Case\EntityFrameWork\obj\Debug\EntityFrameWork.exe
-D:\ado.net\Ado.net Crud Operation using Switch Case\EntityFrameWork\obj\Debug\EntityFrameWork.pdb
