@@ -1,0 +1,26 @@
+C:\Users\shame\source\repos\CodeFirstApproach\CodeFirstApproach\bin\Debug\CodeFirstApproach.exe.config
+C:\Users\shame\source\repos\CodeFirstApproach\CodeFirstApproach\bin\Debug\CodeFirstApproach.exe
+C:\Users\shame\source\repos\CodeFirstApproach\CodeFirstApproach\bin\Debug\CodeFirstApproach.pdb
+C:\Users\shame\source\repos\CodeFirstApproach\CodeFirstApproach\bin\Debug\EntityFramework.dll
+C:\Users\shame\source\repos\CodeFirstApproach\CodeFirstApproach\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shame\source\repos\CodeFirstApproach\CodeFirstApproach\bin\Debug\EntityFramework.xml
+C:\Users\shame\source\repos\CodeFirstApproach\CodeFirstApproach\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shame\source\repos\CodeFirstApproach\CodeFirstApproach\obj\Debug\CodeFirstApproach.csproj.AssemblyReference.cache
+C:\Users\shame\source\repos\CodeFirstApproach\CodeFirstApproach\obj\Debug\CodeFirstApproach.csproj.SuggestedBindingRedirects.cache
+C:\Users\shame\source\repos\CodeFirstApproach\CodeFirstApproach\obj\Debug\CodeFirstApproach.csproj.CoreCompileInputs.cache
+C:\Users\shame\source\repos\CodeFirstApproach\CodeFirstApproach\obj\Debug\CodeFirstApproach.csproj.CopyComplete
+C:\Users\shame\source\repos\CodeFirstApproach\CodeFirstApproach\obj\Debug\CodeFirstApproach.exe
+C:\Users\shame\source\repos\CodeFirstApproach\CodeFirstApproach\obj\Debug\CodeFirstApproach.pdb
+D:\Entity FrameWork\Entity FrameWork\CodeFirstApproach\CodeFirstApproach\bin\Debug\CodeFirstApproach.exe.config
+D:\Entity FrameWork\Entity FrameWork\CodeFirstApproach\CodeFirstApproach\bin\Debug\CodeFirstApproach.exe
+D:\Entity FrameWork\Entity FrameWork\CodeFirstApproach\CodeFirstApproach\bin\Debug\CodeFirstApproach.pdb
+D:\Entity FrameWork\Entity FrameWork\CodeFirstApproach\CodeFirstApproach\bin\Debug\EntityFramework.dll
+D:\Entity FrameWork\Entity FrameWork\CodeFirstApproach\CodeFirstApproach\bin\Debug\EntityFramework.SqlServer.dll
+D:\Entity FrameWork\Entity FrameWork\CodeFirstApproach\CodeFirstApproach\bin\Debug\EntityFramework.xml
+D:\Entity FrameWork\Entity FrameWork\CodeFirstApproach\CodeFirstApproach\bin\Debug\EntityFramework.SqlServer.xml
+D:\Entity FrameWork\Entity FrameWork\CodeFirstApproach\CodeFirstApproach\obj\Debug\CodeFirstApproach.csproj.AssemblyReference.cache
+D:\Entity FrameWork\Entity FrameWork\CodeFirstApproach\CodeFirstApproach\obj\Debug\CodeFirstApproach.csproj.SuggestedBindingRedirects.cache
+D:\Entity FrameWork\Entity FrameWork\CodeFirstApproach\CodeFirstApproach\obj\Debug\CodeFirstApproach.csproj.CoreCompileInputs.cache
+D:\Entity FrameWork\Entity FrameWork\CodeFirstApproach\CodeFirstApproach\obj\Debug\CodeFirstApproach.csproj.CopyComplete
+D:\Entity FrameWork\Entity FrameWork\CodeFirstApproach\CodeFirstApproach\obj\Debug\CodeFirstApproach.exe
+D:\Entity FrameWork\Entity FrameWork\CodeFirstApproach\CodeFirstApproach\obj\Debug\CodeFirstApproach.pdb
