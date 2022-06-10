@@ -1,0 +1,56 @@
+<div class="cart-top container-fluid">
+    <div class="container d-flex">
+        <div class="items">
+            <a>
+                <!-- <img src="C:\Users\rajesh\Desktop\ShoppingCart\allproducts.PNG "> -->
+                <h6></h6>
+            </a>
+
+        </div>
+        <div class="items">
+            <a>
+                <img src="">
+                <h6></h6>
+            </a>
+            
+        </div>
+        <div class="items">
+            <a>
+                <img src="">
+                <h6>    </h6>
+            </a>
+            
+        </div>
+        <!-- <div class="items"> -->
+            <!-- <a> -->
+                <!-- <img src=""> -->
+                <!-- <h6>All products</h6> -->
+            <!-- </a> -->
+            
+        <!-- </div> -->
+
+    </div>
+</div>
+
+<div class="container">
+    
+    <div class="row">
+        
+        <ng-container *ngFor="let item of productList">
+            
+            <div class="card col-md-3">
+                <img src="{{item.productImageLink}}" alt="">
+                <h5 class="itemdata">{{item.productName}}</h5>
+                <p class="itemdata">{{item.productDescription}}</p>
+                <p><strong>Price:</strong>{{item.productPrice}}</p>
+                <p>{{item.productCategory}}</p>
+               
+                <button class="btn btn-primary" (click)="addtoCart(item)">Add To Cart</button>
+                
+            </div>
+        </ng-container>
+    </div>
+</div>
+<div class="text-center mt-5 text-muted">
+    Copyright &copy; 2022 &mdash; Capgemini
+</div>
